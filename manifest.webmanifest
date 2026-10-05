@@ -3,6 +3,8 @@
   "short_name": "Hipoteca",
   "description": "Simulador de amortización hipotecaria (sistema francés y alemán)",
   "lang": "es",
+"id":"/simulador-hipotecario/",
+"categories":["finance,"productivity"],
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
