@@ -1,0 +1,5 @@
+SIMULADOR HIPOTECARIO - APP PARA ANDROID (PWA)
+
+1) Sube TODA esta carpeta a un hosting HTTPS gratuito (Netlify Drop, GitHub Pages o Cloudflare Pages).
+2) Abre el enlace en Chrome del Android -> menú ⋮ -> "Instalar app". Queda como app con icono propia.
+3) Para un APK real: entra a https://www.pwabuilder.com, pega tu enlace y elige "Android" -> descarga el APK/AAB.
